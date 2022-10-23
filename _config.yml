@@ -10,13 +10,13 @@ theme: minimal-mistakes-jekyll
 
 # Site Settings
 locale                   : "gr-GR"
-title                    : "Κατασκευή Συστημάτων Διάδρασης"
+title                    : "Κάρτες Γραφικών"
 title_separator          : "-"
-name                     : "pibook"
+name                     : "Shad0wUch1ha"
 description              : "Making Interactivity Greek Book."
-url                      : "https://pibook.epidro.me"
+url                      : "https://graphiccards.netlify.app/"
 baseurl                  : ""
-repository               : "pibook/site"
+repository               : "Shad0wUch1ha/site"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -59,32 +59,32 @@ social:
 
 # Site Author
 author:
-  name             : "Konstantinos Chorianopoulos"
+  name             : Michalis Papagiannis 
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              :
-  location         :
+  location         : Corfu/Mytilene
   email            :
   uri              :
-  home             : "https://www.epidro.me"
+  home             : 
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : Μιχάλης Παπαγιάννης
   foursquare       :
-  github           : "epidrome"
+  github           : Shad0wUch1ha
   gitlab           :
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : _michalis_p
   lastfm           :
   linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
-  pinterest        :
-  soundcloud       :
+  pinterest        : Shⱥd0wNᵻqᵵ
+  soundcloud       : Shⱥd0wNᵻqᵵ
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
-  steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
+  steam            : Shad0wUch1ha
   tumblr           :
-  twitter          :
+  twitter          : Shad0wUchiha
   vine             :
   weibo            :
   xing             :
